@@ -2,3 +2,4 @@
 
 ## Pertemuan Pertama
 - variabel
+- operator
